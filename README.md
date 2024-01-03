@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Patrick and I'm currently studying Software Engineering @ NorthCoders. 
+
 <!--
 **patrickShn/patrickShn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
